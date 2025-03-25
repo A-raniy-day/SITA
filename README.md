@@ -7,7 +7,7 @@
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/your-username/paper-title-code.git
+git clone https://github.com/A-raniy-day/SITA.git
 pip install -r requirements.txt
 python main.py
 ```
