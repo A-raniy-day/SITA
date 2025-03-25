@@ -3,7 +3,7 @@
 
 ## 🛠️ Environment
 - Python 3.8+
--`requirements.txt`。
+- see `requirements.txt`
 
 ## 🚀 Quick Start
 ```bash
